@@ -1,0 +1,19 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+    <groupId>es.salesianos.edu</groupId>
+  <artifactId>1C</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  <name>1C</name>
+  <parent>
+    <groupId>es.salesianos.edu</groupId>
+    <artifactId>sub1</artifactId>
+    <version>0.0.1-SNAPSHOT</version>
+  </parent>
+  <dependencies>
+       <dependency>
+           <groupId>es.salesianos.edu</groupId>
+           <artifactId>1E</artifactId>
+           <version>0.0.1-SNAPSHOT</version>
+       </dependency>
+    </dependencies>
+</project>
